@@ -136,7 +136,7 @@ The data are public reviews from a third-party Kaggle dataset. Results are aggre
 
 ## 11. Author
 
-**[Your Name]** - [Master's programme, University] - [LinkedIn URL] - [email]
+Namrata Joshi- Master's in Big Data and Business Analytics - FOM University of Applied Sciences - namrataj0503@gmail.com 
 
 ## 12. Citation
 
