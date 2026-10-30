@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+gensim>=4.3
+nltk
+matplotlib
+seaborn
+wordcloud
+pyarrow
+openpyxl
+joblib
+jupyter
+ipykernel

@@ -1,0 +1,25 @@
+﻿# data (too large / third-party)
+data/*
+!data/README.md
+*.csv
+*.xlsx
+*.parquet
+
+# trained models and large artefacts
+*.pkl
+*.model
+*.model.*
+*.mm
+*.mm.index
+*.dict
+*.npy
+
+# environments and caches
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.env
+
+
